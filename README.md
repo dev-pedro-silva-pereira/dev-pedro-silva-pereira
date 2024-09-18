@@ -1,5 +1,5 @@
 ## Sobre Mim!
-- 3/3 Técnico em informática
+- Técnico em informática
 - Desenvolvedor Full Stack 
 <div>
   
